@@ -238,3 +238,4 @@ The above code may look complicated, but our only change is to wrap the code in 
 ### Summary
 
 In this lesson, we explored an interesting feature of JavaScript functions closures.  A closure is a feature in JavaScript such that a function holds onto the variables that it had access to when it was declared.  Closures can be used to declare functions that have specific variables always defined.  JavaScript developers also take advantage of closures to encapsulate data, as we can declare our functions in such a way that the data is only accessible from the returned function, with no way to overwrite the variables captured by the closure.    
+<p data-visibility='hidden'>PHRG JavaScript Closures and Higher Order Functions</p>
